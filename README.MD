@@ -6,6 +6,6 @@
 - B.Sc in Computer Science and Engineering
 
 ## Contributors
-[Iqbal Ahsan](https://www.linkedin.com/in/iqbal-ahsan/)
+[Iqbal Ahsan](https://www.linkedin.com/in/iqbal-ahsan/), [Rafiul Islam Shanto](https://www.linkedin.com/in/rafiul-islam-208702217/)
 
 - **Project Duration:** August 2024 to Septemmber 2024
