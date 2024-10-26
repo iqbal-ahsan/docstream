@@ -16,3 +16,10 @@
 
 ## Potential Users:
       Patient, Doctor, Hospital Admin, Pharmacist, Lab Worker.
+
+## Tools:
+      Frontend: html, CSS, javascript, Bootstrap
+      Backend: Django web framework
+      Programming Language and Libraries: Django web Framework, BootStrap, JavaScripts, Ajax, Django REST framework
+      Database: SQLite3
+      APIs used: MailTrap, SSLCommerz Payment Gateway
