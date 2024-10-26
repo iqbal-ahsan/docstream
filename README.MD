@@ -11,6 +11,6 @@
 - **Project Duration:** August 2024 to Septemmber 2024
 
 ## Tools
-  1) Programming Language and Libraries: Django (a Python web framework), Bootstrap, JavaScript, Ajax, and the Django REST framework.
-  2) Database: SQLite
-  3) APIs used: MailTrap, SSLCommerz Payment Gateway, Django PDF library, Django channels for chat.
+      1) Programming Language and Libraries: Django (a Python web framework), Bootstrap, JavaScript, Ajax, and the Django REST framework.
+      2) Database: SQLite
+      3) APIs used: MailTrap, SSLCommerz Payment Gateway, Django PDF library, Django channels for chat.
