@@ -16,4 +16,4 @@
       3) APIs used: MailTrap, SSLCommerz Payment Gateway, Django PDF library, Django channels for chat.
 
 ## Potential Users:
-            Patient, Doctor, Hospital Admin, Pharmacist, Lab Worker.
+      Patient, Doctor, Hospital Admin, Pharmacist, Lab Worker.
