@@ -23,3 +23,10 @@
       Programming Language and Libraries: Django web Framework, BootStrap, JavaScripts, Ajax, Django REST framework
       Database: SQLite3
       APIs used: MailTrap, SSLCommerz Payment Gateway
+
+
+## Installations Process
+      1) Set up an environment to run your Django project.
+      2) Run migrations to create a database using SQLite.
+      3) Check the `.env.example` and `settings.py` files for any required credentials and configuration details. Then, create a `.env` file based on this information.
+      - Ensure that Mailtrap and SSLCommerz credentials are in the `.env` file for email and payment processing respectively.
